@@ -18,7 +18,7 @@ import {
 */
 const PROGRAM_KEYPAIR_PATH = path.join(
     path.resolve(__dirname, '../../dist/program'),
-    'hello_solana-keypair.json'
+    'program-keypair.json'
   );
   
 
